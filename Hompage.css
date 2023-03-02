@@ -1,0 +1,43 @@
+body {
+
+    background-color:#FFFFFF;
+
+}
+
+h1 {
+
+    color:black;
+
+    text-align:center;
+
+    font-size:30px;
+
+}
+
+p {
+
+    font-family:"Times New Roman";
+
+    font-size:20px;
+
+}
+
+a.link {
+
+    font-family:"Times New Roman";
+
+    font-size:10px;
+
+}
+
+p.one {
+
+    background-color: #ddffff;
+
+    padding: 14px;
+
+    border-left: 6px solid #ccc;
+
+    border-color: #2196F3;
+
+}
